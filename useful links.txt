@@ -1,0 +1,5 @@
+create map with ROM : https://medium.com/@mmmulani/creating-a-game-size-world-map-of-pok%C3%A9mon-fire-red-614da729476a
+map red : https://www.reddit.com/r/pokemon/comments/47wrxs/here_is_a_map_i_made_with_the_location_and_info/?rdt=55290
+
+datavis example : https://www.kaggle.com/code/lakshyaag/data-visualization-pokemon-data
+example dataset : https://www.kaggle.com/datasets/rounakbanik/pokemon/code
